@@ -41,11 +41,7 @@ const SpecialMenu = () => (
           Más información
         </button>
       </div>
-
-      
     </div>
-
-
   </div>
 );
 

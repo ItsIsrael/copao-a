@@ -54,5 +54,5 @@ export default {
   logoeuphoria,
   logocopaona,
   circuitos,
-  R
+  R,
 };
