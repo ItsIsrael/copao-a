@@ -1,5 +1,5 @@
 import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
+import ing from '../assets/ing.png';
 import G from '../assets/G.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
@@ -30,7 +30,7 @@ import R from '../assets/R blanca.png'
 
 export default {
   bg,
-  chef,
+  ing,
   G,
   gallery01,
   gallery02,

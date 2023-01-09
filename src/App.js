@@ -32,7 +32,6 @@ const App = () => {
         <SpecialMenu />
         <Chef />
         <Intro />
-        <Laurels />
         <Gallery />
         <FindUs />
         <Footer />

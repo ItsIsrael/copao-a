@@ -31,10 +31,9 @@ const Gallery = () => {
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}
         >
-          La Raspberry Pi es una computadora de tamaño reducido que ha
-          revolucionado la forma en que vemos la tecnología. A través de esta
-          galería, podrás ver algunos de los proyectos increíbles que hemos
-          realizado con ella, como servidores, entretenimiento y más.
+          A través de esta galería, podrás ver algunos de los proyectos
+          increíbles que hemos realizado con ella, como servidores,
+          entretenimiento y más.
         </p>
         <button type="button" className="custom__button">
           Ver más

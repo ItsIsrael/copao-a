@@ -17,6 +17,7 @@
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
+  user-select: none;
 }
 
 body::-webkit-scrollbar {
@@ -53,4 +54,9 @@ a {
     -webkit-transform: translateY(0);
     transform: translateY(0);
   }
+}
+
+
+.tittle-logo{
+  color: white;
 }
