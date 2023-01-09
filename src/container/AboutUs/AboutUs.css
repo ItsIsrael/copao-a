@@ -5,6 +5,7 @@
 .app__aboutus-overlay {
   position: absolute;
   inset: 0;
+  opacity: 0.3;
 }
 
 .app__aboutus-overlay img {
@@ -33,7 +34,7 @@
 }
 
 .app__aboutus-content_knife img {
-  height: 910px;
+  height: 610px;
 }
 
 .app__aboutus-content_history {
