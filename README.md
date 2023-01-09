@@ -8,3 +8,4 @@ The site may be slow or may not load correctly, please reload or wait...(netlify
 ## Intoduction
 
 A fully responsive beautiful and simple lending made for restaurant, written on react with using react-icons and deployed on netlify.
+# copao-a
