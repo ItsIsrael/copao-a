@@ -12,9 +12,9 @@ const Header = () => (
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
         Somos estudiantes de informatica y tenemos 3 proyectos para presentaros.
       </p>
-      <button type="button" className="custom__button">
-        Explore Menu
-      </button>
+      <a href="#acercade" className="custom__button">
+        Conocer más
+      </a>
     </div>
 
     <div className="app__wrapper_img">

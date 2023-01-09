@@ -9,8 +9,8 @@
 }
 
 .app__aboutus-overlay img {
-  width: 391px;
-  height: 415px;
+  width: 291px;
+  height: 315px;
   z-index: 0;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .app__aboutus-content_knife img {
-  height: 610px;
+  height: 410px;
 }
 
 .app__aboutus-content_history {
