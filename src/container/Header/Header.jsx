@@ -10,7 +10,7 @@ const Header = () => (
       <SubHeading title="Raspberry Pi 4" />
       <h1 className="app__header-h1">Raspberry Pi: el cerebro detrás de tus proyectos de tecnología</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
-        Somos estudiantes de informatica y tenemos 3 proyectos para presentaros.
+        Somos estudiantes de informatica y tenemos 2 proyectos para presentaros.
       </p>
       <a href="#acercade" className="custom__button">
         Conocer más
